@@ -14,29 +14,6 @@ This is a full-stack dynamic **E-commerce web application** built with **React.j
 
 ---
 
-## 📁 Folder Structure
-
--ecommerce-platform/
--├── backend/
--│ ├── server.js
--│ ├── routes/
--│ ├── models/
--│ ├── controllers/
--│ └── config/
--│
--├── frontend/
--│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── App.js
-│ └── public/
-│
-├── .env
-├── package.json (root and frontend)
-└── README.md
-
----
-
 ## ✨ Features
 
 ### 🛍️ User-Facing
