@@ -16,16 +16,16 @@ This is a full-stack dynamic **E-commerce web application** built with **React.j
 
 ## 📁 Folder Structure
 
-ecommerce-platform/
-├── backend/
-│ ├── server.js
-│ ├── routes/
-│ ├── models/
-│ ├── controllers/
-│ └── config/
-│
-├── frontend/
-│ ├── src/
+-ecommerce-platform/
+-├── backend/
+-│ ├── server.js
+-│ ├── routes/
+-│ ├── models/
+-│ ├── controllers/
+-│ └── config/
+-│
+-├── frontend/
+-│ ├── src/
 │ │ ├── components/
 │ │ ├── pages/
 │ │ └── App.js
